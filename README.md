@@ -9,3 +9,10 @@ ET:
 lier avec la bonne branche
 (git add 'le path du ficher (C:...) git://github.com/Sylphorn/HomeEyeGod)
 Voili voilou
+
+Pour le push:
+il faut d'abord pull pour être à jours dans les branches
+puis
+git commit -m description_de_la_modif_sans_espaces (obligatoire d'avoir une description de la modif d'au moins un caractère
+git push https://github.com/Sylphorn/HomeEyeGod.git
+done!
