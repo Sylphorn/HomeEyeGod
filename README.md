@@ -11,8 +11,10 @@ lier avec la bonne branche
 Voili voilou
 
 Pour le push:
+(vérifie que tu es dans la bonne branche avant (pour se balader d'un branche à l'autre : git checkout nom_de_la_brance
 il faut d'abord pull pour être à jours dans les branches
 puis
-git commit -m description_de_la_modif_sans_espaces (obligatoire d'avoir une description de la modif d'au moins un caractère
+git commit -m description_de_la_modif_sans_espaces nom_du_fichier.extension
+(obligatoire d'avoir une description de la modif d'au moins un caractère)
 git push https://github.com/Sylphorn/HomeEyeGod.git
 done!
